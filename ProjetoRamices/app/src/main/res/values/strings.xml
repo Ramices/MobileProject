@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Role Cultural</string>
+    <string name="btnEntrar">ENTRAR</string>
+    <string name="Map">Mapa</string>
+    <string name="Museu">Museu</string>
+    <string name="Teatro">Teatro</string>
+    <string name="search_title">Procurar</string>
+    <string name="menu_item">Menu</string>
+    <string name="menu_voltar">Voltar</string>
+    <string name="noGPS">Nenhum localizacao foi encontrada</string>
+    noGPS
+    search_title
+</resources>

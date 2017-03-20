@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Role Cultural</string>
+    <string name="btnEntrar">BEGIN</string>
+    <string name="Map">Map</string>
+    <string name="Museu">Museum</string>
+    <string name="Teatro">Theater</string>
+    <string name="search_title">Search</string>
+    <string name="menu_item">Menu</string>
+    <string name="menu_voltar">Back</string>
+    <string name="noGPS">GPS not found</string>
+
+</resources>
